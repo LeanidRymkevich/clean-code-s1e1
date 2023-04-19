@@ -15,6 +15,7 @@ body {
 
 .aaa img {
   width: 100%;
+  display: block;
 }
 
 .aaa .more_inf {
