@@ -78,6 +78,10 @@ button {
 
 /* Heading */
 
+.task-creator {
+  margin-bottom: 9px;
+}
+
 .title,
 .task-creator__title {
   color: #333;
@@ -110,7 +114,7 @@ button {
 
 .task-creator__title {
   display: block;
-  margin: 0 0 20px;
+  margin: 16px 0 20px;
 }
 
 .task-creator__input {
